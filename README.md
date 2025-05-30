@@ -14,7 +14,7 @@ I’m enthusiastic about coding, problem-solving, and building useful projects.
 - C++ | C#.Net | MySQL  
 - HTML | CSS | JavaScript  
 - Java | React.js  
-- Problem Solving | Git & GitHub
+- Problem Solving | Git
 
 ---
 
