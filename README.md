@@ -19,9 +19,9 @@ I’m enthusiastic about coding, problem-solving, and building useful projects.
 ---
 
 ## Soft Skills
+- Problem Solving  
 - Communication  
 - Project Management  
-- Problem Solving  
 - Time Management  
 - Teamwork
 
